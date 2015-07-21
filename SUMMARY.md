@@ -1,5 +1,5 @@
 # Summary
 
 * [introduction](introduction.md)
-* hard
+* introduction
 
