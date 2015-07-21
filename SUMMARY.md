@@ -1,7 +1,7 @@
 # Summary
 
 * [introduction](introduction.md)
-* easy
+* [easy](easy.md)
 * medium
 * hard
 
