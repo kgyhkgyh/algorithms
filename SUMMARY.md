@@ -2,5 +2,5 @@
 
 * [introduction](introduction.md)
 * [easy](easy.md)
-* medium
+* [medium](medium.md)
 
